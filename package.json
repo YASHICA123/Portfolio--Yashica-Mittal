@@ -1,0 +1,19 @@
+{
+  "name": "yashica-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Yashica Mittal - AI Researcher, Developer & Designer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "portfolio",
+    "AI",
+    "ML",
+    "web-development",
+    "UI-design"
+  ],
+  "author": "Yashica Mittal",
+  "license": "MIT"
+}
